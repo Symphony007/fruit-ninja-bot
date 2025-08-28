@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# PyTorch / YOLO training cache
+runs/
+*.tmp
+*.cache
+
+# Backup / temp files
+*.bak
+*.swp
+*.swo
+*~
