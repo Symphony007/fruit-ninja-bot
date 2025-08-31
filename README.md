@@ -50,7 +50,7 @@ Follow these steps to get the bot running on your system.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/fruit-ninja-bot.git
+git clone https://github.com/Symphony007/fruit-ninja-bot
 cd fruit-ninja-bot
 ```
 
